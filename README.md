@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:6C63FF,100:38bdf8&height=220&section=header&text=Rafael%20Camilo%20Archila%20Cuy&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Desarrollador%20de%20Software%20%7C%20Inteligencia%20Artificial%20%7C%20Visi%C3%B3n%20Computacional&descSize=16&descAlignY=55&descColor=c9d1d9&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:6C63FF,100:38bdf8&height=220&section=header&text=Rafael%20Camilo%20Archila&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Desarrollador%20de%20Software%20%7C%20Inteligencia%20Artificial%20%7C%20Visi%C3%B3n%20Computacional&descSize=16&descAlignY=55&descColor=c9d1d9&animation=fadeIn" width="100%" />
 
 <!-- BADGES DE CONTACTO -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-camilo-archila/)
@@ -20,7 +20,7 @@
 ```python
 class RafaelArchila:
     def __init__(self):
-        self.nombre     = "Rafael Camilo Archila Cuy"
+        self.nombre     = "Rafael Camilo Archila"
         self.rol        = "Desarrollador de Software & Investigador IA"
         self.universidad = "Universidad Distrital Francisco Jose de Caldas"
         self.ubicacion  = "Bogota, Colombia"
